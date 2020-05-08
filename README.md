@@ -7,23 +7,23 @@ Note : It is highly recommended that you try to complete assignments by yourself
 
 Download the notebooks and you can run them using offline or online notebooks.
 
-##Course 1 : Introduction to Data Science in Python
+## Course 1 : Introduction to Data Science in Python
 
 
-##Week 1: Introduction to Specialization and Python Basics including Numpy Basics + Quiz 
+## Week 1: Introduction to Specialization and Python Basics including Numpy Basics + Quiz 
 
 
-#Week 2: Undestanding the Series and DataFrames and Querying them + Assignment
+# Week 2: Undestanding the Series and DataFrames and Querying them + Assignment
 
 
-##Week 3: Merging DataFrames, Pandas Idioms, Group by, Scales, Pivot Tables, Date Functionality, GoodHart's Law + Assignment 
+## Week 3: Merging DataFrames, Pandas Idioms, Group by, Scales, Pivot Tables, Date Functionality, GoodHart's Law + Assignment 
 
 
-##Week 4: Distributions ,p-hacking, Hypothesis Testing
+## Week 4: Distributions ,p-hacking, Hypothesis Testing
 
 
 
-##READINGS : 
+## READINGS : 
 	    1) 50 Years of Data Science 
 		Link : http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf
 	    2) Patreon Case Study - The Ethics of Using Hacked Data 
