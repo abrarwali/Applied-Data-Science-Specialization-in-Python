@@ -29,7 +29,7 @@ Download the notebooks and you can run them using offline or online notebooks.
 
 ## READINGS : 
 	    1) 50 Years of Data Science 
-		Link : (http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
+		[Link] : (http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
 	    2) Patreon Case Study - The Ethics of Using Hacked Data 
 		Link : https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf
 	    3) The End of Theory: The Data Deluge Makes the Scientific Method Obsolete
