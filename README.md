@@ -10,16 +10,20 @@ Download the notebooks and you can run them using offline or online notebooks.
 ## Course 1 : Introduction to Data Science in Python
 
 
-## Week 1: Introduction to Specialization and Python Basics including Numpy Basics + Quiz 
+## Week 1: 
+	Introduction to Specialization and Python Basics including Numpy Basics + Quiz 
 
 
-# Week 2: Undestanding the Series and DataFrames and Querying them + Assignment
+## Week 2: 
+	Undestanding the Series and DataFrames and Querying them + Assignment
 
 
-## Week 3: Merging DataFrames, Pandas Idioms, Group by, Scales, Pivot Tables, Date Functionality, GoodHart's Law + Assignment 
+## Week 3: 
+	Merging DataFrames, Pandas Idioms, Group by, Scales, Pivot Tables, Date Functionality, GoodHart's Law + Assignment 
 
 
-## Week 4: Distributions ,p-hacking, Hypothesis Testing
+## Week 4:
+	Distributions ,p-hacking, Hypothesis Testing
 
 
 
