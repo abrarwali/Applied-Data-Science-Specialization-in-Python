@@ -41,3 +41,40 @@ Download the notebooks and you can run them using offline or online notebooks.
 
 
 
+## Course  2 : Applied Data Science Specialization in Python
+##      Week 1: 
+	Principles of Information Visualization such as Data-ink Ratio, Graphical Hueristics + Albert Cairo's Strategies + Assignment
+
+
+##      Week 2: 
+	Basic Charting - Matplotlib Architecture, Basic Plotting with Matplotlib, Scatter Plot, Line Plot, Bar Charts, Dejunkifying a Plot + Assignment.
+
+## READINGS : 
+
+	1) 
+
+	2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
