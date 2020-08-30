@@ -61,11 +61,11 @@ Download the notebooks and you can run them using offline or online notebooks.
 ## READINGS : 
 
 	1) Useful Junk?: The Effects of Visual Embellishment on ComprehensUseful Junk?: The Effects of Visual Embellishment on Comprehension and Memorability of Charts.ion and Memorability of Charts.
-		        Link : http://hci.usask.ca/uploads/173-pap0297-bateman.pdf
+		Link : http://hci.usask.ca/uploads/173-pap0297-bateman.pdf
 			
 
 	2) Dark Horse Analytics (Optional)
-		Explore Dark Horse's portfolio and blog for interesting and interactive visuals:
+	   Explore Dark Horse's portfolio and blog for interesting and interactive visuals:
 
 		Link : http://www.darkhorseanalytics.com/
 		
@@ -76,8 +76,10 @@ Download the notebooks and you can run them using offline or online notebooks.
 	4) Selecting the Number of Bins in a Histogram: A Decision Theoretic Approach (Optional)
 		Link : http://users.stat.umn.edu/~gmeeden/papers/hist.pdf
 		
+		
 	5) Sample-oriented task-driven visualizations: allowing users to make better, more confident decisions.
 		Link: https://drive.google.com/file/d/0B7Tj31nhk4BAeFJ1Y1lwQmpMQVk/view
+		
 		
 	6) Spurious Correlations
 		Link : http://www.tylervigen.com/spurious-correlations
