@@ -66,8 +66,8 @@ Download the notebooks and you can run them using offline or online notebooks.
 
 	2) Dark Horse Analytics (Optional)
 	   Explore Dark Horse's portfolio and blog for interesting and interactive visuals:
-
 		Link : http://www.darkhorseanalytics.com/
+		
 		
 	3) Ten Simple Rules for Better Figures
 		Link : http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
